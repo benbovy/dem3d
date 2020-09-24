@@ -6,6 +6,8 @@ dependencies:
   - nbserverproxy
   - ipyleaflet
   - xarray
+  - xarray-simlab
+  - fastscape
   - ipygany
   - matplotlib
   - gdal
